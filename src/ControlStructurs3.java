@@ -1,0 +1,2 @@
+public class ControlStructurs3 {
+}
