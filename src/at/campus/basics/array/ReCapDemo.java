@@ -16,7 +16,7 @@ public class ReCapDemo {
         System.out.println("total : " + total);
         System.out.println("max : " + max);
  /*
-        for (int i=0;i< myList.length;i++) { // wieso double geht nicht ?
+        for (int i=0;i< myList.length;i++) {
 
             if (max < myList[i]) {
                 max =myList[i];
