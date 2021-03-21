@@ -29,10 +29,11 @@ public class QuersummeAufgabe1 {
 
                 sum++;
                 System.out.println("Schleifennummer: " + number + " Quersumme: " + total);
-                System.out.println("Es wurden: " + sum + " Durchgänge absolviert!");
+
             }
 
 
         }
+        System.out.println("Es wurden: " + sum + " Durchgänge absolviert!");
     }
 }
